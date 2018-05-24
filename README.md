@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+
+Don't cling to a mistake just because you spent a lot of time on it.
